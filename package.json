@@ -28,6 +28,6 @@
     "slug": "noaa-ndbc",
     "gatewaySlug": "noaa-ndbc",
     "sourceHash": "v1-b23d332ef788ca631215be6fdf2adff565885d8b33384099cf94aa7921145d92",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
   }
 }
